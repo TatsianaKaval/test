@@ -1,0 +1,5 @@
+Some text
+
+And new line
+
+Finish

@@ -1,1 +1,3 @@
-There will be information here.
+There will be information here
+
+Add new line.
